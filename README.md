@@ -1,4 +1,6 @@
+<h1 align="center">
 # Alura: Curso de Git e Github: Controle e compartilhe seu código
+</h1> 
 
 ## Sobre
 
