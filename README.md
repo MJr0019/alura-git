@@ -12,7 +12,7 @@ Projeto feito para o aprendizado do Curso:
 
 ## Tecnologias
 
-- HTML ,
+- HTML,
 
 - Git.
 
